@@ -1,4 +1,4 @@
-package codz.she.interview.model;
+package codz.chandu.interview.model;
 
 import java.time.Instant;
 import java.util.Date;

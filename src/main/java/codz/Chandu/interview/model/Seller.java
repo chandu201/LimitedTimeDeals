@@ -1,4 +1,4 @@
-package codz.she.interview.model;
+package codz.chandu.interview.model;
 
 import java.util.Map;
 import java.util.UUID;

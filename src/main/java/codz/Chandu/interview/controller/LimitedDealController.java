@@ -1,4 +1,4 @@
-package codz.she.interview.controller;
+package codz.chandu.interview.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import codz.she.interview.model.Deal;
-import codz.she.interview.service.LimitedDealManager;
+import codz.chandu.interview.model.Deal;
+import codz.chandu.interview.service.LimitedDealManager;
 
 @RestController
 public class LimitedDealController {

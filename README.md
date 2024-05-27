@@ -1,6 +1,6 @@
 # LimitedDeals
 
-Problem Statement
+Problem Statement::
 You happen to be a budding entrepreneur and you have come up with an idea to build an ecommerce giant like amazon, flipkart, walmart, etc. As part of this ambition, you want to build a platform to duplicate the concept of Limited Time Deals.
 
 Limited Time Deals
@@ -19,12 +19,12 @@ Document and communicate  your assumptions in README.
 Create a working solution with production quality code.
 Use an external database like postgres/mysql or any noSQL database
 Define and Create APIs to support the operations mentioned above
-Define the associated entities related to inventory by creating relevant tables in Database. You do not need to create APIs to manage inventory
 Write few unit tests for the most important code
+
 What are we looking for?
 Your approach towards the solution
 How you write code in terms of readability and maintainability
-Designing Database Schema 
+
 Usage of best practices
 Testing skills
 

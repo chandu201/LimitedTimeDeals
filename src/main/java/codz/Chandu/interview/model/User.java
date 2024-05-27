@@ -1,4 +1,4 @@
-package codz.she.interview.model;
+package codz.chandu.interview.model;
 
 import java.util.HashSet;
 import java.util.Set;
